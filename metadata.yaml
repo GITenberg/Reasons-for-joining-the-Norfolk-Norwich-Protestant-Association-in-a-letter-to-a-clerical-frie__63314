@@ -1,13 +1,18 @@
 _repo: Reasons-for-joining-the-Norfolk-Norwich-Protestant-Association-in-a-letter-to-a-clerical-frie__63314
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: "Reasons for joining the Norfolk and Norwich Protestant Association\r\
   \nin a letter to a clerical friend"
+covers:
+- cover_type: archival
+  image_path: 63314-h/images/cover.jpg
 creator:
   author:
     agent_name: Hull, William
     gutenberg_agent_id: '33281'
     url: http://www.gutenberg.org/2009/agents/33281
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63314#Reasons-for-joining-the-Norfolk-Norwich-Protestant-Association-in-a-letter-to-a-clerical-frie_
 gutenberg_issued: '2020-09-27'
 gutenberg_type: Text
 identifiers:
