@@ -1,0 +1,26 @@
+_repo: Reasons-for-joining-the-Norfolk-Norwich-Protestant-Association-in-a-letter-to-a-clerical-frie__63314
+_version: 0.0.1
+alternative_title: "Reasons for joining the Norfolk and Norwich Protestant Association\r\
+  \nin a letter to a clerical friend"
+creator:
+  author:
+    agent_name: Hull, William
+    gutenberg_agent_id: '33281'
+    url: http://www.gutenberg.org/2009/agents/33281
+description: ''
+gutenberg_issued: '2020-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63314'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Anti-Catholicism -- England'
+- !lcsh 'Norfolk and Norwich Protestant Association'
+- GITenberg
+title: "Reasons for joining the Norfolk & Norwich Protestant Association\r\nin a letter\
+  \ to a clerical friend"
+url: http://www.gutenberg.org/ebooks/63314
